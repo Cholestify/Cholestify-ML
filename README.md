@@ -3,7 +3,13 @@
 **Cholestify-ML** is a repository for building a machine learning-based food recommendation system to promote healthy eating and help manage hypercholesterolemia. This repository contains the necessary datasets, preprocessing scripts, and the model implementation to create an accurate and effective recommendation system tailored to user-specific nutritional needs.
 
 ---
+# Dataset Resources
 
+- [User Data](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset)
+- [Food  Data1](https://www.fatsecret.co.id/kalori-gizi/search)
+- [Food_Data2](https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset)
+  
+---
 ## Repository Structure
 
 The repository is organized into the following structure:
